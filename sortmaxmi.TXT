@@ -1,0 +1,18 @@
+                                      EMPLEADOS DE LA EMPRESA                                       
+ FECHA: 27/06/2023                                                                      PAGINA:   1 
+ -------------------------------------------------------------------------------------------------- 
+ LEGAJO  NOMBRE          APELLIDO       STATUS  DEPTO           PUESTO             SALARIO          
+ -------------------------------------------------------------------------------------------------- 
+  400    GERONIMO        MENDEZ          7      CONTADURIA      AUXILIAR           31,000.00        
+  600    ROMINA          AZARA           6      CONTADURIA      CONTADORA          45,000.60        
+  700    CAROLINA        GONZALEZ        7      RECEPCION       RECEPCIONISTA      48,000.50        
+  200    JOSE MARIA      MEDINA          5      CONTADURIA      CONTADOR           58,000.60        
+  100    MARIA MARTA     LORENZINI       4      DIRECCION       SECRETARIA         62,000.50        
+  300    ROBERTO         PEREZ GARCIA    2      DIRECCION       VICE DIRECTOR      86,000.70        
+  500    RODOLFO         OSORIO          1      DIRECCION       DIRECTOR           96,000.30        
+
+ TOTAL DE EMPLEADOS LEIDOS  :      7                                                                
+ TOTAL DE EMPLEADOS IMPRESOS:      7                                                                
+ SUMA TOTAL DE SALARIOS    :     $426,003.20                                                        
+ SALARIO MAXIMO:    96,000.30                                                                       
+ SALARIO MINIMO:    31,000.00                                                                       
