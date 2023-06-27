@@ -18,6 +18,6 @@ Se imprimen los totales de:
 - Empleados impresos
 - Sumatoria de salarios
 - Salario máximo
-- Salario mínimo
+- Salario minímo
 
 
